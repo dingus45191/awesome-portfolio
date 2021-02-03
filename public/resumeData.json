@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "Mohammed Mubashir Hasan",
+    "occupation": "Founder and CEO of Hasan",
+    "description": "A person who wants to make a significant difference in the way things are done in the world.",
+    "image": "profile.png",
+    "bio": "Full stack web& React developer and an Entrepreneur",
+    "contactmessage": "Let's innovate together.",
+    "email": "mubashirhasan716@gmail.com",
+    "phone": "null",
+    "address": {
+      "street": "Remote Street",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M4B 1B3"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/dingus45191",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills",
+    "education": [
+      {
+        "school": "Radiant International School",
+        "degree": "High School Student",
+        "graduated": "Currently in 9th",
+        "description": "passed with A+ grade"
+      }
+    ],
+    "work": [
+      {
+        "company": "Hasan",
+        "title": "Founder and CEO",
+        "years": "September 2020 - Present",
+        "description": "The next biggest thing in technology. Pioneer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Development",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "CyberSecurity ",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Short Shortnner",
+        "category": "",
+        "image": "shortnner.png",
+        "url": "https://shortnner.tech/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "https://facebook-clone-5f65d.web.app/"
+      },
+      {
+        "title": "And many more awesome projects",
+        "category": "",
+        "image": "cool.jpg",
+        "url": "https://github.com/dingus45191"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He's the smartest guy I've ever met",
+        "user": "Someone"
+      },
+      {
+        "text": "Mubashir's a genius , he rocks!",
+        "user": "Anonymous"
+      }
+    ]
+  }
+}
