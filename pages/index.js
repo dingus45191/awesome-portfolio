@@ -7,6 +7,7 @@ import Resume from "../Components/Resume";
 import Contact from "../Components/Contact";
 import Testimonials from "../Components/Testimonials";
 import Portfolio from "../Components/Portfolio";
+import Head from "next/Head";
 
 
 const App = () => {
@@ -22,6 +23,10 @@ const App = () => {
 
   return (
       <div className="App">
+          <Head>
+              <title>Mubashir Hasan</title>
+              <link rel="shortcut icon" href="https://avatars.githubusercontent.com/u/60180419?s=460&u=5135c6af08fc8ae159e854882cd816efa82c7da5&v=4" type="image/x-icon" />
+          </Head>
         <Header data={resumeData.main} />
         <About data={resumeData.main} />
         <Resume data={resumeData.resume} />
