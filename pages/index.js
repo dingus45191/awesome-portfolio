@@ -7,7 +7,7 @@ import Resume from "../Components/Resume";
 import Contact from "../Components/Contact";
 import Testimonials from "../Components/Testimonials";
 import Portfolio from "../Components/Portfolio";
-import Head from "next/Head";
+import Head from "next/head";
 
 
 const App = () => {
